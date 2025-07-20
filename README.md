@@ -1,2 +1,2 @@
 # PONG_GAME
-This is a two player interactive traditional pong game using turtle graphics that is controlled by the w and s keys on the lest and the right side is controlled by the up and down keys of your keyboard.
+This two-player Pong game uses Python’s Turtle graphics. The left paddle is controlled with the W and S keys, and the right paddle with the Up and Down arrow keys. Players hit a moving ball back and forth, aiming to score points when the opponent misses. The game shows live scores and uses simple keyboard events for smooth paddle movement. The ball and paddles are turtle objects, and the game runs in a graphical window with basic animation and collision logic.
